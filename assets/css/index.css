@@ -98,3 +98,9 @@ a{
         grid-template-columns: 1fr 1fr;
     }
 }
+
+@media(min-width:600px){
+    .galeria-explicacoes{
+        margin: 10%;
+    }
+}
